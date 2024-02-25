@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-hiragino-kaku-gothic-pro: "Hiragino Kaku Gothic Pro";
+  --text-sub: Helvetica;
+  --font-marion: Marion;
+  --font-futura: Futura;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --text-sub-size: 10px;
+  --font-size-base: 16px;
+  --font-size-xs: 12px;
+  --font-size-29xl: 48px;
+  --font-size-19xl: 38px;
+  --font-size-xl: 20px;
+  --font-size-sm: 14px;
+  --font-size-smi: 13px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-white: #fff;
+  --text-black: #06091b;
+  --color-gray-100: rgba(255, 255, 255, 0.88);
+  --color-gray-200: rgba(8, 36, 26, 0.68);
+  --color-gray-300: rgba(0, 0, 0, 0.56);
+  --color-gray-400: rgba(6, 9, 27, 0.7);
+  --color-gray-500: rgba(8, 36, 26, 0.7);
+  --text-subtext: rgba(8, 36, 26, 0.48);
+  --color-whitesmoke-100: #ededed;
+  --color-whitesmoke-200: #eaeaea;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-4xs: 9px;
+  --gap-52xl: 71px;
+  --gap-21xl: 40px;
+  --gap-125xl: 144px;
+  --gap-69xl: 88px;
+  --gap-5xl: 24px;
+  --gap-0: 0px;
+  --gap-base: 16px;
+  --gap-28xl: 47px;
+  --gap-7xl: 26px;
+  --gap-sm: 14px;
+
+  /* Paddings */
+  --padding-61xl: 80px;
+  --padding-21xl: 40px;
+  --padding-5xl: 24px;
+  --padding-xs: 12px;
+
+  /* Border radiuses */
+  --br-lg: 18px;
+  --br-9981xl: 10000px;
+}
